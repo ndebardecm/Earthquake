@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Earthquake</string>
+    <string name="action_settings">Settings</string>
+    <string name="significant">Significant</string>
+    <string name="all_earthquakes">Show all</string>
+    <string name="m4">Magnitude 4.5+</string>
+    <string name="m2">Magnitude 2.5+</string>
+    <string name="m1">Magnitude 1.5+</string>
+    <string name="OK">OK</string>
+    <string name="settings">Settings</string>
+    <string name="action_past_hour">Past hour</string>
+    <string name="action_past_day">Past day</string>
+    <string name="action_past_week">Past week</string>
+    <string name="action_past_month">Past month</string>
+
+</resources>
